@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer border -->
+    <path android:fillColor="#FFFFFF" android:pathData="M22,22 L86,22 L86,86 L22,86 L22,22 Z M25,25 L25,83 L83,83 L83,25 Z"/>
+    <!-- Vertical dividers (thick at 3-box boundaries) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M43,22 L46,22 L46,86 L43,86 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M62,22 L65,22 L65,86 L62,86 Z"/>
+    <!-- Horizontal dividers -->
+    <path android:fillColor="#FFFFFF" android:pathData="M22,43 L86,43 L86,46 L22,46 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M22,62 L86,62 L86,65 L22,65 Z"/>
+    <!-- Sample filled cells (decorative) -->
+    <path android:fillColor="#D0BCFF" android:pathData="M27,27 L41,27 L41,41 L27,41 Z"/>
+    <path android:fillColor="#D0BCFF" android:pathData="M67,47 L81,47 L81,61 L67,61 Z"/>
+    <path android:fillColor="#D0BCFF" android:pathData="M47,67 L61,67 L61,81 L47,81 Z"/>
+</vector>

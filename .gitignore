@@ -1,0 +1,17 @@
+# Local machine config
+local.properties
+
+# Gradle / build output
+.gradle/
+build/
+app/build/
+.kotlin/
+*.hprof
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
